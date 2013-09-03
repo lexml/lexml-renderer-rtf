@@ -1,0 +1,1918 @@
+<LexML xsi:schemaLocation="http://www.lexml.gov.br/1.0 ../../xsd/lexml-br-rigido.xsd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.lexml.gov.br/1.0">
+      <!--       xsi:schemaLocation="http://www.lexml.gov.br/1.0 http://projeto.lexml.gov.br/esquemas/lexml-br-rigido.xsd" > -->
+      <Metadado>
+      <Identificacao URN="urn:lex:br:senado.federal:projeto.lei;pls:2009-05-21;207@2009-05-21;iniciativa"/>
+    </Metadado>
+      <ProjetoNorma>
+        <Norma>
+          <ParteInicial>
+      <Epigrafe id="epigrafe">PROJETO DE LEI DO SENADO Nº 207, DE 2009</Epigrafe>
+      <Ementa id="ementa">Institui o estatuto jurídico da empresa pública, da sociedade de economia mista e de suas subsidiárias que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, nos termos dos <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art173_par1">§§ 1º</span> e <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art173_par3">3º do art. 173 da Constituição Federal</span>.</Ementa>
+      <Preambulo id="preambulo"><p>O CONGRESSO NACIONAL decreta:</p><p/></Preambulo>
+    </ParteInicial>
+          <Articulacao><Titulo id="tit1">            
+                        
+            
+            <Rotulo>TÍTULO I</Rotulo>
+            <NomeAgrupador> Do Regime Societário, Função Social, Fiscalização e Controle da Empresa Pública e da Sociedade de Economia Mista</NomeAgrupador>
+            <Capitulo id="tit1_cap1">            
+                        
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador> Do regime societário da empresa pública e da sociedade de economia mista</NomeAgrupador>
+            <Artigo id="art1">            
+                        
+            
+            <Rotulo>Art. 1º</Rotulo>
+            
+            <Caput id="art1_cpt">            
+                        
+            
+            
+            <p>A exploração da atividade econômica pelo Estado será exercida por meio de empresa pública ou sociedade de economia mista.</p>
+            
+          </Caput><Paragrafo id="art1_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A constituição de empresa pública ou sociedade de economia mista dependerá de prévia autorização legal, que indique relevante interesse coletivo ou imperativo de segurança nacional.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art2">            
+                        
+            
+            <Rotulo>Art. 2º</Rotulo>
+            
+            <Caput id="art2_cpt">            
+                        
+            
+            
+            <p>Empresa pública é a pessoa jurídica de direito privado cujo capital, votante ou não, é integralmente detido, direta ou indiretamente, por uma ou mais pessoas jurídicas de direito público interno.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art3">            
+                        
+            
+            <Rotulo>Art. 3º</Rotulo>
+            
+            <Caput id="art3_cpt">            
+                        
+            
+            
+            <p>Sociedade de economia mista é a pessoa jurídica de direito privado que tem a maioria de seu capital votante detida por uma ou mais pessoas jurídicas de direito público interno, empresas públicas ou sociedades de economia mista.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art4">            
+                        
+            
+            <Rotulo>Art. 4º</Rotulo>
+            
+            <Caput id="art4_cpt">            
+                        
+            
+            
+            <p>A empresa pública e a sociedade de economia mista serão constituídas sob a forma de sociedade anônima e, ressalvado o disposto nesta Lei, serão regidas pelas normas aplicáveis a esse tipo societário.</p>
+            
+          </Caput><Paragrafo id="art4_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Não se aplicam à sociedade de economia mista e à empresa pública as normas que impliquem redução da participação pública no capital social abaixo do exigido pelos arts. 2º e 3º.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A empresa pública será constituída sob a forma de sociedade anônima fechada.</p>
+            
+          </Paragrafo><Paragrafo id="art4_par3">            
+                        
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A sociedade de economia mista poderá ser constituída sob a forma de sociedade anônima fechada ou companhia aberta, hipótese em que ficará sujeita às normas expedidas pela Comissão de Valores Mobiliários.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art5">            
+                        
+            
+            <Rotulo>Art. 5º</Rotulo>
+            
+            <Caput id="art5_cpt">            
+                        
+            
+            
+            <p>A empresa pública:</p>
+            <Inciso id="art5_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>não poderá lançar debêntures, ou outros títulos ou valores mobiliários, conversíveis em ações;</p>
+            
+          </Inciso><Inciso id="art5_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>não poderá emitir partes beneficiárias.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art6">            
+                        
+            
+            <Rotulo>Art. 6º</Rotulo>
+            
+            <Caput id="art6_cpt">            
+                        
+            
+            
+            <p>A empresa pública e a sociedade de economia mista somente se consideram constituídas após o registro de seus atos constitutivos no Registro Público de Empresas.</p>
+            
+          </Caput><Paragrafo id="art6_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Sem prejuízo dos demais requisitos previstos em lei, a constituição da empresa pública ou da sociedade de economia mista dependerá da prévia integralização das ações de titularidade pública.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art7">            
+                        
+            
+            <Rotulo>Art. 7º</Rotulo>
+            
+            <Caput id="art7_cpt">            
+                        
+            
+            
+            <p>A empresa pública e a sociedade de economia mista terão Conselho de Administração.</p>
+            
+          </Caput><Paragrafo id="art7_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Na empresa pública e na sociedade de economia mista, é assegurado à minoria, se houver, o direito de eleger um dos conselheiros, se maior número não lhes couber pelo processo de voto múltiplo previsto para as sociedades anônimas.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art8">            
+                        
+            
+            <Rotulo>Art. 8º</Rotulo>
+            
+            <Caput id="art8_cpt">            
+                        
+            
+            
+            <p>Os administradores de empresa pública serão escolhidos entre cidadãos de reputação ilibada e notório conhecimento no ramo de atividade que constitui o objeto social.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art9">            
+                        
+            
+            <Rotulo>Art. 9º</Rotulo>
+            
+            <Caput id="art9_cpt">            
+                        
+            
+            
+            <p>A lei que autorizar a criação da empresa pública ou da sociedade de economia mista deverá dispor sobre as diretrizes e restrições a serem consideradas quando da elaboração do estatuto da companhia, em especial sobre:</p>
+            <Inciso id="art9_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>a constituição e o funcionamento do Conselho de Administração, observado o número mínimo de três e máximo de cinco membros;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>a constituição e o funcionamento do Conselho Fiscal, que exercerá suas atribuições de modo permanente;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>o mandato dos administradores, que não será superior a dois anos, permitida uma recondução;</p>
+            
+          </Inciso><Inciso id="art9_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a avaliação, individual e coletiva, do desempenho dos administradores, que será realizada pelo Conselho Fiscal até seis meses após o término do exercício social, publicada no órgão oficial de imprensa e envolverá, no mínimo:</p>
+            <Alinea id="art9_cpt_inc4_ali1">            
+                        
+            
+            <Rotulo>a)</Rotulo>
+            <p>a exposição dos atos de gestão praticados, quanto a sua licitude e eficácia da ação administrativa;</p>
+            
+          </Alinea><Alinea id="art9_cpt_inc4_ali2">            
+                        
+            
+            <Rotulo>b)</Rotulo>
+            <p>a contribuição para o resultado do exercício;</p>
+            
+          </Alinea><Alinea id="art9_cpt_inc4_ali3">            
+                        
+            
+            <Rotulo>c)</Rotulo>
+            <p>a contribuição para a evolução do faturamento e da participação da empresa pública ou sociedade de economia mista no mercado em que atua.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art10">            
+                        
+            
+            <Rotulo>Art. 10.</Rotulo>
+            
+            <Caput id="art10_cpt">            
+                        
+            
+            
+            <p>Aplicam-se aos administradores de empresa pública ou sociedade de economia mista as normas de responsabilidade próprias dos administradores de sociedades anônimas e, se houver, as disposições da legislação específica de seu ramo de atividade.</p>
+            
+          </Caput><Paragrafo id="art10_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O administrador de empresa pública, no cumprimento de seu dever de diligência, deverá também observar o interesse público que motivou sua constituição.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art11">            
+                        
+            
+            <Rotulo>Art. 11.</Rotulo>
+            
+            <Caput id="art11_cpt">            
+                        
+            
+            
+            <p>O controlador da empresa pública e da sociedade de economia mista responderá de forma ilimitada e não subsidiária pelos atos praticados com abuso de poder de controle, mas poderá orientar as atividades da companhia de modo a atender ao interesse público que justificou sua criação.</p>
+            
+          </Caput><Paragrafo id="art11_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Para fins de caracterização dos atos indicados no <i>caput </i>deste artigo<i>, </i>aplicam-se as normas que regem o abuso de poder de controle na sociedade anônima.</p>
+            
+          </Paragrafo><Paragrafo id="art11_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A ação para haver a reparação poderá ser proposta pela sociedade, pelo terceiro prejudicado, pelos demais sócios ou por qualquer cidadão.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art12">            
+                        
+            
+            <Rotulo>Art. 12.</Rotulo>
+            
+            <Caput id="art12_cpt">            
+                        
+            
+            
+            <p>As empresas públicas e sociedades de economia mista sujeitam-se ao regime jurídico aplicável às sociedades empresárias privadas, inclusive quanto aos direitos e obrigações civis, empresariais, trabalhistas e tributárias.</p>
+            
+          </Caput><Paragrafo id="art12_par1u">            
+            <!--Link: urn:lex:br:federal:lei:1976-12-15;6404-->            
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Aplicam-se à empresa pública e à sociedade de economia mista, no que couber, as normas da <span xlink:href="urn:lex:br:federal:lei:1976-12-15;6404">Lei nº 6.404, de 15 de dezembro de 1976</span>.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo><Capitulo id="tit1_cap2">            
+                        
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador> Da função social da empresa pública e da sociedade de economia mista e sua fiscalização pelo Estado e pela sociedade</NomeAgrupador>
+            <Secao id="tit1_cap2_sec1">            
+                        
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador> Da função social da empresa pública e da sociedade de economia mista</NomeAgrupador>
+            <Artigo id="art13">            
+                        
+            
+            <Rotulo>Art. 13.</Rotulo>
+            
+            <Caput id="art13_cpt">            
+                        
+            
+            
+            <p>A empresa pública e a sociedade de economia mista terão por missão precípua o cumprimento de sua função social.</p>
+            
+          </Caput><Paragrafo id="art13_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Considera-se função social da empresa pública e da sociedade de economia mista, sem prejuízo de outras atribuições constantes de seu estatuto:</p>
+            <Inciso id="art13_par1u_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>a ampliação do acesso de consumidores a seus produtos e serviços;</p>
+            
+          </Inciso><Inciso id="art13_par1u_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>a utilização de política de discriminação de preços para os produtos e serviços consumidos pela população de baixa renda;</p>
+            
+          </Inciso><Inciso id="art13_par1u_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>o desenvolvimento e emprego de tecnologia brasileira para produção e oferta de seus produtos e serviços, sempre que economicamente viável no longo prazo;</p>
+            
+          </Inciso><Inciso id="art13_par1u_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a promoção de atividades artísticas, esportivas, culturais e comunitárias, através de patrocínio ou realização direta;</p>
+            
+          </Inciso><Inciso id="art13_par1u_inc5">            
+                        
+            
+            <Rotulo>V –</Rotulo>
+            <p>o investimento na preservação do acervo histórico, ecológico e cultural brasileiro e regional, bem como na exploração turística sustentável desse acervo;</p>
+            
+          </Inciso><Inciso id="art13_par1u_inc6">            
+                        
+            
+            <Rotulo>VI –</Rotulo>
+            <p>a realização ou patrocínio de campanhas educativas que favoreçam, individual ou coletivamente, a educação, a cultura popular, o civismo, a saúde, a melhoria das condições de vida e trabalho ou outros valores socialmente relevantes;</p>
+            
+          </Inciso><Inciso id="art13_par1u_inc7">            
+                        
+            
+            <Rotulo>VII –</Rotulo>
+            <p>o financiamento e a promoção de atividades, obras ou campanhas educativas que visem à inclusão social do deficiente físico e mental, inclusive através da oferta de produtos, serviços e instalações físicas adaptadas à sua utilização;</p>
+            
+          </Inciso><Inciso id="art13_par1u_inc8">            
+                        
+            
+            <Rotulo>VIII –</Rotulo>
+            <p>o investimento e a oferta de emprego em regiões e para populações menos favorecidas pelo desenvolvimento econômico.</p>
+            
+          </Inciso>
+          </Paragrafo>
+          </Artigo><Artigo id="art14">            
+                        
+            
+            <Rotulo>Art. 14.</Rotulo>
+            
+            <Caput id="art14_cpt">            
+                        
+            
+            
+            <p>Para a consecução de sua função social, a empresa pública e a sociedade de economia mista deverão observar o seguinte:</p>
+            <Inciso id="art14_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>anteriormente à distribuição de lucro aos acionistas, deverá ser reservado valor equivalente a, no mínimo, dez por cento do total a ser distribuído para a consecução, no orçamento do ano subseqüente, das atividades previstas no art. 13;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>a utilização de verba publicitária nunca poderá superar, em cada exercício, os recursos destinados ao desempenho das atividades previstas no art. 13;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>o investimento em pesquisas para o desenvolvimento de novas tecnologias nunca poderá ser inferior a cinco por cento do lucro operacional do exercício anterior, ou, não havendo resultado positivo no exercício anterior, o investimento deverá ser equivalente ao valor pago para utilização de propriedade industrial alheia no mesmo período;</p>
+            
+          </Inciso><Inciso id="art14_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>no mínimo quarenta por cento da composição do Conselho de Administração ou órgão equivalente com a função de definir as políticas estratégicas e empresariais da empresa pública e da sociedade de economia mista serão ocupados por técnicos renomados no ramo de atividade constitutivo do objeto social e por representantes da sociedade civil, vedada a indicação para essas vagas de pessoas ocupantes de outros cargos de direção ou assessoramento na Administração Pública.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit1_cap2_sec2">            
+                        
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador> Da fiscalização da empresa pública e da sociedade de economia mista pelo Estado e pela sociedade</NomeAgrupador>
+            <Artigo id="art15">            
+                        
+            
+            <Rotulo>Art. 15.</Rotulo>
+            
+            <Caput id="art15_cpt">            
+                        
+            
+            
+            <p>As empresas públicas e as sociedades de economia mista submeter-se-ão ao pleno controle do Tribunal de Contas ao qual competir a fiscalização da pessoa jurídica de direito público controladora.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art16">            
+                        
+            
+            <Rotulo>Art. 16.</Rotulo>
+            
+            <Caput id="art16_cpt">            
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art37-->            
+            
+            
+            <p>O Tribunal de Contas, no âmbito de sua fiscalização, deverá considerar toda a legislação aplicável à empresa pública e à sociedade de economia mista, bem como as regras e princípios contidos no <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art37">art. 37 da Constituição</span>, observando ainda:</p>
+            <Inciso id="art16_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>as condições de mercado em que atua a empresa pública e a sociedade de economia mista;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>a necessidade de agilidade nas decisões empresariais;</p>
+            
+          </Inciso><Inciso id="art16_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>a política estratégica e empresarial da empresa pública e da sociedade de economia mista, conforme definida por seu Conselho de Administração ou órgão equivalente.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art16_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As circunstâncias enumeradas neste artigo não poderão elidir a aplicação dos princípios da legalidade, da publicidade, da moralidade e da economicidade na Administração Pública, sob pena de responsabilização pessoal dos administradores da empresa pública e da sociedade de economia mista, a ser apurada pelo Tribunal de Contas competente.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art17">            
+                        
+            
+            <Rotulo>Art. 17.</Rotulo>
+            
+            <Caput id="art17_cpt">            
+                        
+            
+            
+            <p>A empresa pública e a sociedade de economia mista deverão disponibilizar, para consulta pública e por meio eletrônico, informação completa e atualizada sobre a execução de seus contratos e de seu orçamento, admitindo-se retardo de até três meses na divulgação das informações.</p>
+            
+          </Caput><Paragrafo id="art17_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Os contratos com perfil estratégico ou objeto de segredo industrial, seja por seu preço, seja por seu objeto, poderão ser agrupados sob esta justificativa.</p>
+            
+          </Paragrafo><Paragrafo id="art17_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O disposto no § 1º deste artigo não será oponível à fiscalização do Tribunal de Contas, sem prejuízo da responsabilização administrativa, civil e penal do servidor que der causa à sua eventual divulgação.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art18">            
+                        
+            
+            <Rotulo>Art. 18.</Rotulo>
+            
+            <Caput id="art18_cpt">            
+                        
+            
+            
+            <p>Qualquer cidadão poderá requerer à empresa pública e à sociedade de economia mista certidões e informações que julgar necessárias, bastando para isso indicar sua finalidade.</p>
+            
+          </Caput><Paragrafo id="art18_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>As certidões e informações a que se refere o <i>caput</i> deste artigo deverão ser fornecidas dentro de quinze dias da entrega, sob recibo, dos respectivos requerimentos.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Somente nos casos em que o interesse público, devidamente justificado, impuser sigilo, será negada certidão ou informação, ressalvado o disposto no § 2º do art. 17 desta Lei.</p>
+            
+          </Paragrafo><Paragrafo id="art18_par3">            
+                        
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>A utilização das informações recebidas da empresa pública ou sociedade de economia mista será estritamente vinculada às finalidades apontadas por ocasião de seu requerimento, sendo vedado ao particular a utilização em fim diverso, salvo para formular representação ao Tribunal de Contas ou ao Ministério Público competentes ou, ainda, para propositura de ação popular.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo>
+          </Titulo><Titulo id="tit2">            
+                        
+            
+            <Rotulo>TÍTULO II</Rotulo>
+            <NomeAgrupador> Das Licitações e Contratos</NomeAgrupador>
+            <Capitulo id="tit2_cap1">            
+                        
+            
+            <Rotulo>CAPÍTULO I</Rotulo>
+            <NomeAgrupador> Disposições Gerais</NomeAgrupador>
+            <Artigo id="art19">            
+                        
+            
+            <Rotulo>Art. 19.</Rotulo>
+            
+            <Caput id="art19_cpt">            
+                        
+            
+            
+            <p>As licitações e contratos das empresas públicas e sociedades de economia mista submetem-se às normas gerais desta Lei, devendo observar os princípios da isonomia, da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, da economicidade, da probidade administrativa, da motivação, da vinculação ao instrumento convocatório e do julgamento objetivo.</p>
+            
+          </Caput><Paragrafo id="art19_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Ressalvadas as exceções autorizadas por esta Lei, todas as contratações deverão ser precedidas de processo licitatório destinado a selecionar a proposta mais vantajosa para a empresa pública ou sociedade de economia mista, assegurada igualdade de condições aos participantes.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art20">            
+                        
+            
+            <Rotulo>Art. 20.</Rotulo>
+            
+            <Caput id="art20_cpt">            
+                        
+            
+            
+            <p>As empresas públicas e sociedades de economia mista editarão regulamentos próprios dispondo sobre licitações e contratos, em consonância com as prescrições desta Lei, os quais entrarão em vigor após aprovação pela autoridade do Poder Executivo a que tais entes estejam vinculados e publicação na imprensa oficial.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art21">            
+                        
+            
+            <Rotulo>Art. 21.</Rotulo>
+            
+            <Caput id="art21_cpt">            
+                        
+            
+            
+            <p>É vedado:</p>
+            <Inciso id="art21_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>incluir, nos instrumentos convocatórios, cláusulas ou condições restritivas do caráter competitivo das licitações;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>tratar de forma discriminatória qualquer licitante, não sendo tolerado qualquer favorecimento em razão de origem;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>negar publicidade aos atos e documentos do processo licitatório, exceto o conteúdo das propostas, antes de sua abertura;</p>
+            
+          </Inciso><Inciso id="art21_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>admitir como licitante:</p>
+            <Alinea id="art21_cpt_inc4_ali1">            
+                        
+            
+            <Rotulo>a)</Rotulo>
+            <p>quem exerça função ou emprego na empresa pública, sociedade de economia mista, ou sua subsidiária, que celebrará o contrato, seu cônjuge ou parente até o terceiro grau;</p>
+            
+          </Alinea><Alinea id="art21_cpt_inc4_ali2">            
+                        
+            
+            <Rotulo>b)</Rotulo>
+            <p>sociedade empresária da qual sejam administradores, ou sócios detentores de mais de cinco por cento do capital social, as pessoas indicadas na alínea <i>a</i> deste inciso.</p>
+            
+          </Alinea>
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art22">            
+                        
+            
+            <Rotulo>Art. 22.</Rotulo>
+            
+            <Caput id="art22_cpt">            
+            <!--Link: urn:lex:br:federal:lei:1993-06-21;8666!art6-->            
+            
+            
+            <p>Aplicam-se às licitações e contratos das empresas públicas e sociedades de economia mista as definições constantes do <span xlink:href="urn:lex:br:federal:lei:1993-06-21;8666!art6">art. 6º da Lei nº 8.666, de 21 de junho de 1993</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art23">            
+                        
+            
+            <Rotulo>Art. 23.</Rotulo>
+            
+            <Caput id="art23_cpt">            
+            <!--Link: urn:lex:br:federal:lei:1993;8666-->            
+            
+            
+            <p>As infrações e crimes relacionados ao processo licitatório, à contratação direta e ao cumprimento dos contratos das empresas públicas e sociedades de economia mista sujeitam-se ao disposto nas normas constantes do Capítulo IV da <span xlink:href="urn:lex:br:federal:lei:1993;8666">Lei nº 8.666, de 1993</span>.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art24">            
+                        
+            
+            <Rotulo>Art. 24.</Rotulo>
+            
+            <Caput id="art24_cpt">            
+                        
+            
+            
+            <p>Os contratos das empresas públicas e sociedades de economia mista reger-se-ão pelos princípios e regras jurídicas aplicáveis às sociedades empresárias de capital privado.</p>
+            
+          </Caput>
+          </Artigo>
+          </Capitulo><Capitulo id="tit2_cap2">            
+                        
+            
+            <Rotulo>CAPÍTULO II</Rotulo>
+            <NomeAgrupador> Das fases da licitação</NomeAgrupador>
+            <Artigo id="art25">            
+                        
+            
+            <Rotulo>Art. 25.</Rotulo>
+            
+            <Caput id="art25_cpt">            
+                        
+            
+            
+            <p>As licitações das empresas públicas e sociedades de economia mista observarão as seguintes fases:</p>
+            <Inciso id="art25_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>preparatória;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>convocatória;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>classificatória;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>habilitatória;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc5">            
+                        
+            
+            <Rotulo>V –</Rotulo>
+            <p>recursal;</p>
+            
+          </Inciso><Inciso id="art25_cpt_inc6">            
+                        
+            
+            <Rotulo>VI –</Rotulo>
+            <p>homologatória.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art25_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A seqüência dos procedimentos observará a ordem definida no caput deste artigo, ressalvadas as exceções previstas no Capítulo III deste Título.</p>
+            
+          </Paragrafo>
+          </Artigo><Secao id="tit2_cap2_sec1">            
+                        
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador> Da fase preparatória</NomeAgrupador>
+            <Artigo id="art26">            
+                        
+            
+            <Rotulo>Art. 26.</Rotulo>
+            
+            <Caput id="art26_cpt">            
+                        
+            
+            
+            <p>Na fase preparatória, a empresa pública e a sociedade de economia mista deverão:</p>
+            <Inciso id="art26_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>definir objetivamente o escopo da futura contratação e justificar sua necessidade;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>designar a autoridade condutora do procedimento;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>aprovar estimativa dos valores da contratação com indicação dos critérios adotados e fontes de pesquisa;</p>
+            
+          </Inciso><Inciso id="art26_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>promover consulta pública, de duração não inferior a dez dias, quando o valor estimado para a contratação exceder cinco por cento da receita operacional líquida auferida pela empresa pública ou sociedade de economia mista no ano anterior, observado o limite mínimo de cinco milhões de reais.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap2_sec2">            
+                        
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador> Da fase convocatória</NomeAgrupador>
+            <Artigo id="art27">            
+                        
+            
+            <Rotulo>Art. 27.</Rotulo>
+            
+            <Caput id="art27_cpt">            
+                        
+            
+            
+            <p>A fase convocatória consistirá no chamamento dos interessados para participar da licitação, o qual se dará pelo envio de convite, quando o certame se processar na modalidade de consulta, e, nas demais modalidades, pela publicação de aviso no Diário Oficial da União, se a promotora da licitação for empresa pública ou sociedade de economia mista federal, ou no Diário Oficial do Estado, quando a promotora for empresa pública ou sociedade de economia mista estadual, distrital ou municipal.</p>
+            
+          </Caput><Paragrafo id="art27_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A publicação referida no caput deste artigo poderá ser substituída pela divulgação da íntegra do edital na Internet, desde que atendidos os seguintes requisitos:</p>
+            <Inciso id="art27_par1_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>o edital deverá estar disponível na página oficial da pessoa jurídica à qual for vinculada a empresa pública ou sociedade de economia mista, durante todo o período em que produzir efeitos;</p>
+            
+          </Inciso><Inciso id="art27_par1_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>a página deverá ser única para cada esfera político-administrativa, servindo a todos os órgãos e entidades da administração direta e indireta, e conter indicação clara de espaço reservado exclusivamente à divulgação de atos relativos a procedimentos de contratação.</p>
+            
+          </Inciso>
+          </Paragrafo><Paragrafo id="art27_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>É também obrigatória a publicação, concomitantemente àquela prevista no caput deste artigo, do aviso de licitação em jornal de grande circulação no Estado onde se dará o fornecimento dos bens ou serviços, sempre que o valor estimado da contratação, superior a quinhentos mil reais, exceder um décimo por cento da receita operacional líquida auferida pela empresa pública ou sociedade de economia mista no ano anterior.</p>
+            
+          </Paragrafo><Paragrafo id="art27_par3">            
+                        
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>O aviso conterá a definição clara e sucinta do objeto da contratação, a data de recebimento dos documentos e propostas dos licitantes, bem como todas as informações relativas à forma de obtenção da íntegra do edital, mediante ressarcimento dos custos de reprodução.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art28">            
+                        
+            
+            <Rotulo>Art. 28.</Rotulo>
+            
+            <Caput id="art28_cpt">            
+                        
+            
+            
+            <p>Devem constar do edital, além de outros dados considerados relevantes:</p>
+            <Inciso id="art28_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>o objeto da contratação;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>os critérios de classificação e julgamento das propostas;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>os requisitos de habilitação dos licitantes;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>detalhes de procedimento;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc5">            
+                        
+            
+            <Rotulo>V –</Rotulo>
+            <p>sanções aplicáveis;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc6">            
+                        
+            
+            <Rotulo>VI –</Rotulo>
+            <p>minuta do instrumento de contrato;</p>
+            
+          </Inciso><Inciso id="art28_cpt_inc7">            
+                        
+            
+            <Rotulo>VII –</Rotulo>
+            <p>projeto básico, no caso de obras e serviços de engenharia.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art29">            
+                        
+            
+            <Rotulo>Art. 29.</Rotulo>
+            
+            <Caput id="art29_cpt">            
+                        
+            
+            
+            <p>O prazo mínimo entre a publicação do aviso ou a entrega dos convites e o recebimento da documentação dos licitantes será determinado segundo cada modalidade de licitação, devendo o regulamento de licitações da empresa pública ou sociedade de economia mista prever uma escala de prazos superiores ao mínimo de cada modalidade, calculados de acordo com o valor estimado da contratação e a complexidade do objeto.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art30">            
+                        
+            
+            <Rotulo>Art. 30.</Rotulo>
+            
+            <Caput id="art30_cpt">            
+                        
+            
+            
+            <p>Sempre que o valor estimado do contrato exceder 0,1% (um décimo por cento) da receita operacional líquida auferida pela empresa pública ou sociedade de economia mista no ano anterior, deverá ser encaminhada ao tribunal de contas do qual ela seja jurisdicionada, no prazo de que trata o art. 29, a íntegra do edital, a justificativa das exigências de habilitação e do critério de julgamento adotados, bem como documentação contendo os dados relacionados nos incisos I a III do art. 26 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art31">            
+                        
+            
+            <Rotulo>Art. 31.</Rotulo>
+            
+            <Caput id="art31_cpt">            
+                        
+            
+            
+            <p>O regulamento de licitações da empresa pública ou sociedade de economia mista disciplinará a forma de impugnação do instrumento convocatório, observado o seguinte:</p>
+            <Inciso id="art31_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>qualquer pessoa tem legitimidade para apresentar impugnações;</p>
+            
+          </Inciso><Inciso id="art31_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>o prazo para impugnar não poderá ser inferior à metade daquele estabelecido para apresentação das propostas pelos licitantes;</p>
+            
+          </Inciso><Inciso id="art31_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>a decisão administrativa deverá ser proferida antes homologação do certame.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art31_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O acolhimento de impugnação somente determinará o refazimento de todo o processo quando implicar modificação das condições de elaboração das propostas ou ampliação do universo de licitantes.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="tit2_cap2_sec3">            
+                        
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador> Da fase classificatória</NomeAgrupador>
+            <Artigo id="art32">            
+                        
+            
+            <Rotulo>Art. 32.</Rotulo>
+            
+            <Caput id="art32_cpt">            
+                        
+            
+            
+            <p>A fase classificatória consistirá na aferição do atendimento dos requisitos de classificação das propostas, bem como no julgamento daquelas que forem classificadas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art33">            
+                        
+            
+            <Rotulo>Art. 33.</Rotulo>
+            
+            <Caput id="art33_cpt">            
+                        
+            
+            
+            <p>A decisão pela classificação ou desclassificação será motivada, devendo ocorrer desclassificação quando a proposta:</p>
+            <Inciso id="art33_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>desatender às exigências do instrumento convocatório relativas ao objeto licitado;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>consignar preço excessivo ou condições abusivas;</p>
+            
+          </Inciso><Inciso id="art33_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>consignar preço ou condições inexeqüíveis.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art33_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Não ocorrerá desclassificação quando, possível o saneamento de falhas, o licitante efetuá-lo sem prejuízo do prosseguimento do certame e no prazo estabelecido no regulamento de licitações da empresa pública e sociedade de economia mista, desde que a correção não acarrete mudança no preço, nas condições essenciais da proposta e nos itens da proposta técnica objeto de julgamento.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art34">            
+                        
+            
+            <Rotulo>Art. 34.</Rotulo>
+            
+            <Caput id="art34_cpt">            
+                        
+            
+            
+            <p>Constituem critérios de julgamento das licitações nas empresas públicas e sociedades de economia mista:</p>
+            <Inciso id="art34_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>menor preço, aplicável às licitações nas modalidades de pregão e concorrência;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>maior oferta, aplicável às licitações na modalidade de leilão;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>técnica conjugada com preço, aplicável às licitações nas modalidades de concorrência e consulta;</p>
+            
+          </Inciso><Inciso id="art34_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>melhor técnica: aplicável às licitações na modalidade de concurso.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art35">            
+                        
+            
+            <Rotulo>Art. 35.</Rotulo>
+            
+            <Caput id="art35_cpt">            
+                        
+            
+            
+            <p>Quando o critério de julgamento for o de menor preço, o objeto será adjudicado ao licitante classificado que oferecer o preço mais baixo e atender às condições de habilitação.</p>
+            
+          </Caput><Paragrafo id="art35_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Nas licitações de que trata o caput deste artigo, a análise das propostas técnicas limitar-se-á à verificação de aspectos qualitativos e quantitativos previstos no edital como requisitos de classificação, devendo propiciar a escolha de bens ou serviços aptos a satisfazer as necessidades da empresa pública ou sociedade de economia mista.</p>
+            
+          </Paragrafo><Paragrafo id="art35_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O desempate entre propostas dar-se-á por sorteio.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art36">            
+                        
+            
+            <Rotulo>Art. 36.</Rotulo>
+            
+            <Caput id="art36_cpt">            
+                        
+            
+            
+            <p>Na licitação de contratação de fornecimento de bem, o edital poderá exigir a entrega de amostra, pelo licitante que, de acordo com o critério de julgamento estabelecido, houver apresentado a melhor proposta, para que seja submetida a testes e análises, em conformidade com normas técnicas, assegurando-se-lhe o direito de acompanhar os procedimentos de avaliação da amostra.</p>
+            
+          </Caput><Paragrafo id="art36_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>A reprovação da amostra acarretará a desclassificação da proposta e a convocação dos licitantes remanescentes, segundo a ordem de classificação inicial, para submeterem suas amostras à avaliação, sendo declarado vencedor aquele com melhor proposta que tiver a sua amostra aprovada.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art37">            
+                        
+            
+            <Rotulo>Art. 37.</Rotulo>
+            
+            <Caput id="art37_cpt">            
+                        
+            
+            
+            <p>O julgamento da melhor oferta poderá, desde que devidamente justificado no documento a que se refere o inciso III do art. 26 desta Lei, envolver, além do preço do bem, as condições de pagamento, com a previsão de critérios objetivos de ponderação das duas variáveis no edital.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art38">            
+                        
+            
+            <Rotulo>Art. 38.</Rotulo>
+            
+            <Caput id="art38_cpt">            
+                        
+            
+            
+            <p>O julgamento pelo critério de técnica combinada com preço será feito aplicando-se a média ponderada da proposta técnica e da proposta de preço, de acordo com os pesos estabelecidos no instrumento convocatório.</p>
+            
+          </Caput><Paragrafo id="art38_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Se do julgamento previsto no caput deste artigo resultar empate, terá preferência na contratação o licitante que houver apresentado a melhor proposta técnica e, persistindo o empate, a escolha se dará por sorteio.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art39">            
+                        
+            
+            <Rotulo>Art. 39.</Rotulo>
+            
+            <Caput id="art39_cpt">            
+                        
+            
+            
+            <p>Os critérios técnicos de julgamento devem ser objetivamente definidos no instrumento no edital ou convite, com indicação:</p>
+            <Inciso id="art39_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>dos elementos objeto de avaliação e pontuação;</p>
+            
+          </Inciso><Inciso id="art39_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>da forma de atribuição de pontos aos diferentes elementos da proposta técnica;</p>
+            
+          </Inciso><Inciso id="art39_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>do peso da pontuação de cada elemento da proposta técnica.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art40">            
+                        
+            
+            <Rotulo>Art. 40.</Rotulo>
+            
+            <Caput id="art40_cpt">            
+                        
+            
+            
+            <p>O prazo máximo de validade das propostas é de cento e vinte dias, podendo o instrumento convocatório fixar prazo inferior.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap2_sec4">            
+                        
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador> Da fase habilitatória</NomeAgrupador>
+            <Artigo id="art41">            
+                        
+            
+            <Rotulo>Art. 41.</Rotulo>
+            
+            <Caput id="art41_cpt">            
+                        
+            
+            
+            <p>Na fase habilitatória, dar-se-á o exame dos elementos relacionados à pessoa do licitante que comprovem sua regularidade jurídica e fiscal, sua qualificação técnica e econômico-financeira, bem como a inexistência de circunstância impeditiva de o licitante contratar com a empresa pública ou sociedade de economia mista.</p>
+            
+          </Caput><Paragrafo id="art41_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Somente serão admitidas exigências de qualificação indispensáveis à garantia do cumprimento das obrigações resultantes do contrato a ser celebrado.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art42">            
+                        
+            
+            <Rotulo>Art. 42.</Rotulo>
+            
+            <Caput id="art42_cpt">            
+                        
+            
+            
+            <p>A prova de atendimento dos requisitos de habilitação será feita pela via documental, na forma e no prazo estabelecidos pelo regulamento de licitações da empresa pública ou sociedade de economia mista, sendo vedada a exigência de apresentação de documentos impertinentes ou a fixação de condições restritivas do universo de licitantes que excedam as cautelas adotadas pelas sociedades empresárias em geral nas contratações por elas realizadas.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art43">            
+                        
+            
+            <Rotulo>Art. 43.</Rotulo>
+            
+            <Caput id="art43_cpt">            
+                        
+            
+            
+            <p>Não poderá participar de licitação nem celebrar, com empresa pública ou sociedade de economia mista, contrato decorrente dos procedimentos de dispensa e inexigibilidade:</p>
+            <Inciso id="art43_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>pessoa condenada por crime contra a Administração, enquanto durarem os efeitos da pena;</p>
+            
+          </Inciso><Inciso id="art43_cpt_inc2">            
+            <!--Link: urn:lex:br:federal:lei:1993;8666!par2-->            
+            
+            <Rotulo>II –</Rotulo>
+            <p>pessoa declarada inidônea nos termos do art. 87, IV e <span xlink:href="urn:lex:br:federal:lei:1993;8666!par2">§ 2º, da Lei nº 8.666, de 1993</span>;</p>
+            
+          </Inciso><Inciso id="art43_cpt_inc3">            
+            <!--Link: urn:lex:br:federal:constituicao:1988-10-05;1988!art195_par3-->            
+            
+            <Rotulo>III –</Rotulo>
+            <p>pessoa jurídica que esteja em débito com o sistema de seguridade social, nos termos do <span xlink:href="urn:lex:br:federal:constituicao:1988-10-05;1988!art195_par3">art. 195, § 3º, da Constituição</span>;</p>
+            
+          </Inciso><Inciso id="art43_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>pessoas físicas que controlem, direta ou indiretamente, as pessoas jurídicas mencionadas nos incisos I e II deste artigo;</p>
+            
+          </Inciso><Inciso id="art43_cpt_inc5">            
+                        
+            
+            <Rotulo>V –</Rotulo>
+            <p>pessoas enquadradas na situação descrita pelo art. 21, IV, desta Lei;</p>
+            
+          </Inciso><Inciso id="art43_cpt_inc6">            
+                        
+            
+            <Rotulo>VI –</Rotulo>
+            <p>pessoa jurídica que seja controlada, direta ou indiretamente, por pessoa mencionada nos incisos I a V desta Lei.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap2_sec5">            
+                        
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador> Da fase recursal</NomeAgrupador>
+            <Artigo id="art44">            
+                        
+            
+            <Rotulo>Art. 44.</Rotulo>
+            
+            <Caput id="art44_cpt">            
+                        
+            
+            
+            <p>A fase recursal terá início com a adjudicação, ato mediante o qual a autoridade condutora da licitação proclama o vencedor da licitação.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art45">            
+                        
+            
+            <Rotulo>Art. 45.</Rotulo>
+            
+            <Caput id="art45_cpt">            
+                        
+            
+            
+            <p>Caberá recurso dos atos decisórios da autoridade condutora que afetem direito ou interesse de licitante ou que sejam potencialmente lesivos a qualquer dos princípios do art. 19 desta Lei, devendo a matéria ser disciplinada pelo regulamento de licitações da empresa pública ou sociedade de economia mista, que preverá:</p>
+            <Inciso id="art45_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>a oportunidade de todos os licitantes se manifestarem, em prazo comum, sobre os recursos apresentados;</p>
+            
+          </Inciso><Inciso id="art45_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>o julgamento dos recursos por autoridade superior à condutora da licitação;</p>
+            
+          </Inciso><Inciso id="art45_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>o dever de manifestação do julgador sobre todas as questões tratadas nas razões e contra-razões recursais, desde que pertinentes à decisão recorrida;</p>
+            
+          </Inciso><Inciso id="art45_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>a correção da falha ensejadora do recurso, no caso de seu acolhimento, e a invalidação dos atos subseqüentes a ela, desde que incabível seu aproveitamento.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap2_sec6">            
+                        
+            
+            <Rotulo>SEÇÃO VI</Rotulo>
+            <NomeAgrupador> Da fase homologatória</NomeAgrupador>
+            <Artigo id="art46">            
+                        
+            
+            <Rotulo>Art. 46.</Rotulo>
+            
+            <Caput id="art46_cpt">            
+                        
+            
+            
+            <p>Após a decisão de eventuais recursos, a autoridade superior, verificada a legalidade dos atos praticados, deverá homologar a licitação ou revogá-la, no todo ou em parte, por razões de interesse público decorrentes de fato superveniente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art47">            
+                        
+            
+            <Rotulo>Art. 47.</Rotulo>
+            
+            <Caput id="art47_cpt">            
+                        
+            
+            
+            <p>No caso de anulação ou revogação do certame, a autoridade superior deverá notificar todos os licitantes da decisão, indicando as razões de fato e de direito nas quais se funda sua decisão.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art48">            
+                        
+            
+            <Rotulo>Art. 48.</Rotulo>
+            
+            <Caput id="art48_cpt">            
+                        
+            
+            
+            <p>A anulação do certame induz à do contrato dele decorrente.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art49">            
+                        
+            
+            <Rotulo>Art. 49.</Rotulo>
+            
+            <Caput id="art49_cpt">            
+                        
+            
+            
+            <p>Homologada a licitação, o licitante vencedor será convocado a assinar o contrato.</p>
+            
+          </Caput><Paragrafo id="art49_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A recusa injustificada em assinar o contrato sujeitará o licitante ao pagamento de multa, em valor fixado no instrumento convocatório.</p>
+            
+          </Paragrafo><Paragrafo id="art49_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Na hipótese do § 1º deste artigo, a autoridade condutora do certame poderá convocar outro licitante, observada a ordem de classificação e atendidos os requisitos de habilitação, para assinar o contrato, nos termos da proposta vencedora ou de sua própria proposta, conforme estabelecer o instrumento convocatório.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="tit2_cap3">            
+                        
+            
+            <Rotulo>CAPÍTULO III</Rotulo>
+            <NomeAgrupador> Das modalidades de licitação</NomeAgrupador>
+            <Artigo id="art50">            
+                        
+            
+            <Rotulo>Art. 50.</Rotulo>
+            
+            <Caput id="art50_cpt">            
+                        
+            
+            
+            <p>São modalidades de licitação aplicáveis às empresas públicas e sociedades de economia mista:</p>
+            <Inciso id="art50_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>pregão;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>concorrência;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>leilão;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>consulta;</p>
+            
+          </Inciso><Inciso id="art50_cpt_inc5">            
+                        
+            
+            <Rotulo>V –</Rotulo>
+            <p>concurso.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art50_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>São vedadas a criação de outras modalidades de licitação e a combinação das previstas neste artigo.</p>
+            
+          </Paragrafo>
+          </Artigo><Secao id="tit2_cap3_sec1">            
+                        
+            
+            <Rotulo>SEÇÃO I</Rotulo>
+            <NomeAgrupador> Do Pregão</NomeAgrupador>
+            <Artigo id="art51">            
+                        
+            
+            <Rotulo>Art. 51.</Rotulo>
+            
+            <Caput id="art51_cpt">            
+                        
+            
+            
+            <p>Pregão é a modalidade de licitação para a aquisição de bens e serviços comuns em que a disputa entre interessados é feita por meio de propostas e lances sucessivos em sessão pública ou por via eletrônica.</p>
+            
+          </Caput><Paragrafo id="art51_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Consideram-se bens e serviços comuns aqueles cuja qualidade e atributos essenciais são predeterminados, de modo objetivo e uniforme, pelo mercado próprio onde eles estejam disponíveis.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art52">            
+                        
+            
+            <Rotulo>Art. 52.</Rotulo>
+            
+            <Caput id="art52_cpt">            
+                        
+            
+            
+            <p>O pregão observará a seguinte seqüência de procedimentos:</p>
+            <Inciso id="art52_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>publicação do instrumento convocatório, com pelo menos cinco dias de antecedência da apresentação das propostas pelos licitantes;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>entrega, por parte dos licitantes ou seus representantes, dos envelopes lacrados, contendo as propostas e os documentos comprobatórios do atendimento dos requisitos de habilitação, em sessão pública, conduzida pelo pregoeiro;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>abertura dos envelopes contendo as propostas e desclassificação das que não atendam aos requisitos previstos no edital, bem como, dentre as restantes, daquelas cujo preço exceda, em percentual a ser fixado no edital, nunca inferior a dez por cento, ao daquela classificada com o menor preço;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>apresentação de novos lances verbais e sucessivos, por parte dos licitantes classificados que desejarem fazê-lo;</p>
+            
+          </Inciso><Inciso id="art52_cpt_inc5">            
+                        
+            
+            <Rotulo>V –</Rotulo>
+            <p>exame dos documentos de habilitação dos licitantes, observada a ordem de classificação resultante dos lances, e adjudicação do objeto ao licitante mais bem classificado que preencha os requisitos de habilitação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art52_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Se da aplicação do critério previsto no inciso III do <i>caput </i>deste artigo resultarem menos de três propostas classificadas, os licitantes autores das três de menor valor serão admitidos à fase de lances sucessivos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art53">            
+                        
+            
+            <Rotulo>Art. 53.</Rotulo>
+            
+            <Caput id="art53_cpt">            
+                        
+            
+            
+            <p>O pregão também poderá ser realizado por meio eletrônico, com a utilização de sistema acessível pela Internet e dotado de recursos de criptografia e de autenticação que garantam condições de segurança em todas as etapas do certame, do qual somente poderão participar licitantes previamente cadastrados junto à empresa pública ou sociedade de economia mista promotora da licitação, observado o seguinte:</p>
+            <Inciso id="art53_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>o licitante cadastrado receberá chave de identificação e senha de acesso ao sistema, pessoais e intransferíveis, tornando-se responsável por todas as transações realizadas com o uso desses dados;</p>
+            
+          </Inciso><Inciso id="art53_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>além das formas de publicação do instrumento convocatório estabelecidas pelo art. 27 desta Lei, a íntegra do edital será encaminhada por correio eletrônico aos cadastrados do ramo de mercado dos bens ou serviços licitados, observando-se os mesmos prazos das outras formas de publicação;</p>
+            
+          </Inciso><Inciso id="art53_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>será admitida a participação de licitantes que hajam solicitado cadastramento em até vinte e quatro horas antes da apresentação das propostas.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap3_sec2">            
+                        
+            
+            <Rotulo>SEÇÃO II</Rotulo>
+            <NomeAgrupador> Da Concorrência</NomeAgrupador>
+            <Artigo id="art54">            
+                        
+            
+            <Rotulo>Art. 54.</Rotulo>
+            
+            <Caput id="art54_cpt">            
+                        
+            
+            
+            <p>Concorrência é a modalidade de licitação na qual a especificação do objeto a ser contratado ou a avaliação dos requisitos de habilitação seja complexa, como no caso de obras e serviços de engenharia.</p>
+            
+          </Caput><Paragrafo id="art54_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Há complexidade na avaliação dos requisitos de habilitação quando a realização do objeto exigir do contratado conhecimentos técnicos e científicos específicos ou que estejam sujeitos a constantes evoluções tecnológicas, de restrito domínio de mercado e que possam refletir-se na definição do objeto.</p>
+            
+          </Paragrafo><Paragrafo id="art54_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Há complexidade na especificação do objeto quando o bem ou serviço não for ofertado de forma padronizada ou uniforme pelo mercado e suas características essenciais estiverem sujeitas a diferenças significativas de qualidade, segundo as soluções técnicas adotadas pelo fornecedor.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art55">            
+                        
+            
+            <Rotulo>Art. 55.</Rotulo>
+            
+            <Caput id="art55_cpt">            
+                        
+            
+            
+            <p>A concorrência observará a seguinte ordem de procedimentos:</p>
+            <Inciso id="art55_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>publicação do instrumento convocatório, com pelo menos vinte dias de antecedência da apresentação das propostas pelos licitantes;</p>
+            
+          </Inciso><Inciso id="art55_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>entrega, por parte dos licitantes ou seus representantes, dos envelopes lacrados, contendo as propostas e os documentos comprobatórios do atendimento dos requisitos de habilitação, em sessão pública, conduzida pela comissão de licitação;</p>
+            
+          </Inciso><Inciso id="art55_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>abertura dos envelopes contendo as propostas técnicas, desclassificação das que não atendam aos requisitos previstos no edital, e, no caso de licitação cujo critério de julgamento seja o de técnica conjugada com o preço, atribuição de pontuações às propostas classificadas;</p>
+            
+          </Inciso><Inciso id="art55_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>repetição do procedimento estabelecido no inciso III deste artigo relativamente às propostas de preço;</p>
+            
+          </Inciso><Inciso id="art55_cpt_inc5">            
+                        
+            
+            <Rotulo>V –</Rotulo>
+            <p>ordenação das propostas classificadas, segundo o critério de julgamento fixado pelo edital;</p>
+            
+          </Inciso><Inciso id="art55_cpt_inc6">            
+                        
+            
+            <Rotulo>VI –</Rotulo>
+            <p>exame dos documentos de habilitação dos licitantes, observada a ordem final de classificação resultante do julgamento, e adjudicação do objeto ao licitante mais bem classificado que preencha os requisitos de habilitação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art55_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Sempre que julgar conveniente, a Administração poderá, em decisão motivada, inverter a ordem das fases classificatória e habilitatória ou promover procedimento inicial de pré-habilitação.</p>
+            
+          </Paragrafo><Paragrafo id="art55_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>Nos casos do § 1º deste artigo, deverão ser examinados os documentos de habilitação ou pré-habilitação de todos os concorrentes e apreciados todos os recursos contra as decisões da autoridade condutora do certame em tais fases, antes que se passe ao julgamento das propostas.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao><Secao id="tit2_cap3_sec3">            
+                        
+            
+            <Rotulo>SEÇÃO III</Rotulo>
+            <NomeAgrupador> Do Leilão</NomeAgrupador>
+            <Artigo id="art56">            
+                        
+            
+            <Rotulo>Art. 56.</Rotulo>
+            
+            <Caput id="art56_cpt">            
+                        
+            
+            
+            <p>Leilão é a modalidade de licitação utilizada para a alienação de bens móveis ou imóveis, a quem oferecer o maior lance, igual ou superior ao valor da avaliação prévia realizada pelo alienante.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art57">            
+                        
+            
+            <Rotulo>Art. 57.</Rotulo>
+            
+            <Caput id="art57_cpt">            
+                        
+            
+            
+            <p>O leilão observará a seguinte seqüência de procedimentos:</p>
+            <Inciso id="art57_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>publicação do instrumento convocatório, com pelo menos cinco dias de antecedência da sessão em que ocorrerão os lances;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>apresentação, em sessão pública conduzida por leiloeiro, de lances verbais e sucessivos, por parte dos licitantes ou seus representantes;</p>
+            
+          </Inciso><Inciso id="art57_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>adjudicação do objeto ao licitante que oferecer o maior lance.</p>
+            
+          </Inciso>
+          </Caput>
+          </Artigo><Artigo id="art58">            
+                        
+            
+            <Rotulo>Art. 58.</Rotulo>
+            
+            <Caput id="art58_cpt">            
+                        
+            
+            
+            <p>O leilão poderá ser realizado por meio eletrônico, observadas as regras previstas no art. 53 desta Lei.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art59">            
+                        
+            
+            <Rotulo>Art. 59.</Rotulo>
+            
+            <Caput id="art59_cpt">            
+                        
+            
+            
+            <p>Poder-se-á exigir dos interessados, como requisito de habilitação para participar do certame, caução em valor não superior a cinco por cento do apurado na avaliação prévia do bem, que o licitante vencedor perderá no caso de inobservância das condições de pagamento fixadas no edital.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art60">            
+                        
+            
+            <Rotulo>Art. 60.</Rotulo>
+            
+            <Caput id="art60_cpt">            
+                        
+            
+            
+            <p>O procedimento para a alienação de participação direta ou indireta do Poder Público em empresas públicas ou sociedades de economia mista observará a legislação especial sobre a matéria, sendo admitida a utilização das modalidades de procedimento de contratação previstas nesta Lei.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap3_sec4">            
+                        
+            
+            <Rotulo>SEÇÃO IV</Rotulo>
+            <NomeAgrupador> Da Consulta</NomeAgrupador>
+            <Artigo id="art61">            
+                        
+            
+            <Rotulo>Art. 61.</Rotulo>
+            
+            <Caput id="art61_cpt">            
+                        
+            
+            
+            <p>Consulta é a modalidade de licitação para a contratação de serviços singulares, em que o julgamento das propostas é feito por Júri, com ponderação entre o custo e o benefício de cada proposta, podendo considerar a capacitação dos participantes, conforme critérios fixados no instrumento convocatório.</p>
+            
+          </Caput><Paragrafo id="art61_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>Consideram-se serviços singulares aqueles dirigidos a satisfazer necessidade que não pode ser atendida por profissional especializado do ramo de atividade ao qual se referem e cuja comparação direta entre as prestações se torna inviável em virtude de características individualizadoras relevantes, tais como trabalhos predominantemente intelectuais, técnicos ou artísticos, elaboração de projetos, inclusive de informática, consultoria, auditoria e elaboração de pareceres técnicos.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art62">            
+                        
+            
+            <Rotulo>Art. 62.</Rotulo>
+            
+            <Caput id="art62_cpt">            
+                        
+            
+            
+            <p>A consulta observará a seguinte seqüência de procedimentos:</p>
+            <Inciso id="art62_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>convite a no mínimo três interessados do ramo do serviço a ser prestado, realizado com pelo menos vinte dias de antecedência da apresentação das propostas;</p>
+            
+          </Inciso><Inciso id="art62_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>entrega, por parte dos convidados, dos envelopes lacrados, contendo as propostas e os documentos comprobatórios do atendimento dos requisitos de habilitação, em sessão pública, conduzida pelo Júri;</p>
+            
+          </Inciso><Inciso id="art62_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>abertura dos envelopes contendo os documentos de habilitação dos licitantes e inabilitação daqueles que não atendam aos requisitos previstos no edital;</p>
+            
+          </Inciso><Inciso id="art62_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>abertura dos envelopes contendo as propostas e desclassificação daquelas que não atendam aos requisitos previstos no edital;</p>
+            
+          </Inciso><Inciso id="art62_cpt_inc5">            
+                        
+            
+            <Rotulo>V –</Rotulo>
+            <p>ordenação das propostas mediante a ponderação entre o seu custo e o seu benefício, adjudicando-se o objeto ao licitante mais bem classificado.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art62_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>A escolha dos convidados deverá ser justificada e recair sobre pessoas de notória capacidade no campo de sua especialidade, inclusive com indicação dos elementos demonstrativos de sua qualificação técnica e, quando relevante para o objeto, econômico-financeira.</p>
+            
+          </Paragrafo><Paragrafo id="art62_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>A margem de subjetividade no julgamento não afastará o dever de fundamentação da escolha, com a exposição das razões que levaram à tomada da decisão, inclusive relativamente à desconsideração do menor preço, quando for escolhida proposta diversa da que o apresentar.</p>
+            
+          </Paragrafo><Paragrafo id="art62_par3">            
+                        
+            
+            <Rotulo>§ 3º</Rotulo>
+            <p>Para adjudicação do objeto ao autor da melhor proposta, a Administração deverá ter recebido, no mínimo, duas propostas válidas.</p>
+            
+          </Paragrafo><Paragrafo id="art62_par4">            
+                        
+            
+            <Rotulo>§ 4º</Rotulo>
+            <p>Não atingido o número mínimo definido no § 3º deste artigo, outro procedimento de Consulta deve ser iniciado, salvo se a autoridade condutora justificar a impossibilidade de atingi-lo.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art63">            
+                        
+            
+            <Rotulo>Art. 63.</Rotulo>
+            
+            <Caput id="art63_cpt">            
+                        
+            
+            
+            <p>É vedada a subcontratação quando o contratado houver sido selecionado mediante consulta.</p>
+            
+          </Caput>
+          </Artigo>
+          </Secao><Secao id="tit2_cap3_sec5">            
+                        
+            
+            <Rotulo>SEÇÃO V</Rotulo>
+            <NomeAgrupador> Do Concurso</NomeAgrupador>
+            <Artigo id="art64">            
+                        
+            
+            <Rotulo>Art. 64.</Rotulo>
+            
+            <Caput id="art64_cpt">            
+                        
+            
+            
+            <p>Concurso é a modalidade de licitação para a escolha de trabalho técnico, científico ou artístico, a ser cedido à Administração, com transferência dos correspondentes direitos patrimoniais, mediante o pagamento, ao vencedor do certame, de remuneração ou prêmio, em valor fixado pelo edital.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art65">            
+                        
+            
+            <Rotulo>Art. 65.</Rotulo>
+            
+            <Caput id="art65_cpt">            
+                        
+            
+            
+            <p>O concurso observará a seguinte seqüência de procedimentos:</p>
+            <Inciso id="art65_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>publicação do instrumento convocatório, com pelo menos quarenta e cinco dias de antecedência da apresentação das propostas;</p>
+            
+          </Inciso><Inciso id="art65_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>entrega, por parte dos licitantes, de envelopes lacrados, contendo as propostas e os documentos comprobatórios do atendimento dos requisitos de habilitação, em sessão pública;</p>
+            
+          </Inciso><Inciso id="art65_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>abertura dos envelopes contendo as propostas, desclassificação daquelas que não observarem os requisitos previstos no edital e atribuição de notas às classificadas, por uma comissão de no mínimo três jurados, servidores ou não, com notórios conhecimentos na especialidade à qual se referirem os trabalhos;</p>
+            
+          </Inciso><Inciso id="art65_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>exame dos documentos de habilitação dos licitantes, observada a ordem de classificação, e adjudicação do objeto ao licitante mais bem classificado que preencha os requisitos de habilitação.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art65_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O julgamento das propostas será realizado de modo a garantir que os jurados não tomem conhecimento da identidade dos autores dos trabalhos até a divulgação das notas.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Secao>
+          </Capitulo><Capitulo id="tit2_cap4">            
+                        
+            
+            <Rotulo>CAPÍTULO IV</Rotulo>
+            <NomeAgrupador> Da inexigibilidade e da dispensa</NomeAgrupador>
+            <Artigo id="art66">            
+                        
+            
+            <Rotulo>Art. 66.</Rotulo>
+            
+            <Caput id="art66_cpt">            
+                        
+            
+            
+            <p>A decisão que determinar a contratação direta, por dispensa ou inexigibilidade, será tomada pelo diretor presidente da empresa pública ou sociedade de economia mista, ressalvada a competência do Conselho de Administração, e indicará as razões em que se fundamenta, devendo ser acompanhada de:</p>
+            <Inciso id="art66_cpt_inc1">            
+                        
+            
+            <Rotulo>I –</Rotulo>
+            <p>parecer jurídico que conclua pela legalidade do procedimento;</p>
+            
+          </Inciso><Inciso id="art66_cpt_inc2">            
+                        
+            
+            <Rotulo>II –</Rotulo>
+            <p>justificativa da escolha do fornecedor;</p>
+            
+          </Inciso><Inciso id="art66_cpt_inc3">            
+                        
+            
+            <Rotulo>III –</Rotulo>
+            <p>demonstração dos critérios adotados para definição do preço e de eventuais contraprestações, condições e compromissos exigidos do contratado;</p>
+            
+          </Inciso><Inciso id="art66_cpt_inc4">            
+                        
+            
+            <Rotulo>IV –</Rotulo>
+            <p>minuta do instrumento do contrato.</p>
+            
+          </Inciso>
+          </Caput><Paragrafo id="art66_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>O profissional que emitir o parecer de que trata o inciso I do <i>caput</i> deste artigo fora das hipóteses permitidas na legislação será pessoal, não subsidiária e ilimitadamente responsável pelos danos decorrentes da contratação direta, sempre que caracterizado dolo, culpa grave ou erro grosseiro de sua parte.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art67">            
+                        
+            
+            <Rotulo>Art. 67.</Rotulo>
+            
+            <Caput id="art67_cpt">            
+                        
+            
+            
+            <p>A licitação será inexigível sempre que houver inviabilidade de competição.</p>
+            
+          </Caput>
+          </Artigo><Artigo id="art68">            
+                        
+            
+            <Rotulo>Art. 68.</Rotulo>
+            
+            <Caput id="art68_cpt">            
+                        
+            
+            
+            <p>Além dos casos previstos na legislação geral sobre licitações e contratos administrativos, a licitação será dispensável para as empresas públicas e sociedades de economia mista nas hipóteses de compra dos insumos necessários à produção dos bens que comercializam ou à prestação dos serviços que oferecem ao mercado.</p>
+            
+          </Caput><Paragrafo id="art68_par1">            
+                        
+            
+            <Rotulo>§ 1º</Rotulo>
+            <p>Na definição dos valores máximos permitidos para dispensa de licitação, a empresa pública ou sociedade de economia mista deverá considerar o preço total estimado das aquisições de bens ou serviços previstas para o exercício financeiro correspondente.</p>
+            
+          </Paragrafo><Paragrafo id="art68_par2">            
+                        
+            
+            <Rotulo>§ 2º</Rotulo>
+            <p>O fracionamento de aquisições de bens e serviços em infringência ao disposto no § 1º deste artigo, quando doloso, caracteriza ato de improbidade administrativa, sujeitando o agente às sanções previstas em legislação específica.</p>
+            
+          </Paragrafo>
+          </Artigo>
+          </Capitulo>
+          </Titulo><Titulo id="tit3">            
+                        
+            
+            <Rotulo>TÍTULO III</Rotulo>
+            <NomeAgrupador> Das Disposições Finais e Transitórias</NomeAgrupador>
+            <Artigo id="art69">            
+                        
+            
+            <Rotulo>Art. 69.</Rotulo>
+            
+            <Caput id="art69_cpt">            
+                        
+            
+            
+            <p>As empresas públicas e as sociedades de economia mistas constituídas anteriormente à vigência desta Lei deverão, no prazo de seis meses, promover as adaptações necessárias à adequação ao disposto nesta Lei.</p>
+            
+          </Caput><Paragrafo id="art69_par1u">            
+                        
+            
+            <Rotulo>Parágrafo único.</Rotulo>
+            <p>As empresas públicas e as sociedades de economia mista não constituídas como sociedades anônimas e que não promoverem a adaptação de seus atos constitutivos no prazo previsto no <i>caput</i> deste artigo passam a ser automaticamente consideradas companhias fechadas e submetidas à legislação própria dessas sociedades, devendo o Registro Público de Empresas promover a inclusão da expressão “Sociedade Anônima” ao final de seu nome empresarial.</p>
+            
+          </Paragrafo>
+          </Artigo><Artigo id="art70">            
+                        
+            
+            <Rotulo>Art. 70.</Rotulo>
+            
+            <Caput id="art70_cpt">            
+                        
+            
+            
+            <p>Esta Lei entra em vigor na data da sua publicação.</p>
+            
+          </Caput>
+          </Artigo>
+          </Titulo></Articulacao>
+        </Norma>
+      </ProjetoNorma>
+    </LexML>
