@@ -3,7 +3,7 @@
 
 	<groupId>br.gov.lexml</groupId>
 	<artifactId>lexml-renderer-rtf</artifactId>
-	<version>0.3.8</version>
+	<version>0.3.9-SNAPSHOT</version>
 	<name>lexml-renderer-rtf</name>
 	<description>Renderizador LexML em RTF</description>
 	
@@ -18,7 +18,7 @@
 		<url>https://github.com/lexml/${project.artifactId}</url>
 		<developerConnection>scm:git:https://github.com/lexml/${project.artifactId}.git</developerConnection>
 		<connection>scm:git:https://github.com/lexml/${project.artifactId}.git</connection>
-        <tag>lexml-renderer-rtf-0.3.8</tag>
+        <tag>HEAD</tag>
     </scm>
 
 	<distributionManagement>
