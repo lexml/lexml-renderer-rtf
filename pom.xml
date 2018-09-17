@@ -3,7 +3,7 @@
 
 	<groupId>br.gov.lexml</groupId>
 	<artifactId>lexml-renderer-rtf</artifactId>
-	<version>0.3.13</version>
+	<version>0.3.14-SNAPSHOT</version>
 	<name>lexml-renderer-rtf</name>
 	<description>Renderizador LexML em RTF</description>
 	
