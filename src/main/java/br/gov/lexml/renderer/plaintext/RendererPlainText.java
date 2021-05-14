@@ -19,12 +19,6 @@ import br.gov.lexml.renderer.rtf.RendererRTF;
 
 public class RendererPlainText {
 
-	/**
-	 * Renderiza em plain text um Stream de um XML do LexML. Retorna uma String. 
-	 * @param xmlLexmlInputStream
-	 * @param out
-	 * @throws Exception
-	 */
     public String render(final InputStream xmlLexmlInputStream) throws Exception {
     	
     	ByteArrayOutputStream bosRTF = new ByteArrayOutputStream();
