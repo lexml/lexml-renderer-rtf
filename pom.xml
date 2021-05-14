@@ -8,6 +8,32 @@
 	<description>LexML Brazil document RTF renderer library.</description>
 	<url>https://github.com/lexml/lexml-renderer-rtf</url>
 	
+	<licenses>
+		<license>
+			<name>GPLv2</name>
+			<url>https://www.gnu.org/licenses/old-licenses/gpl-2.0.html</url>
+		</license>
+	</licenses>
+ 
+	<developers>
+		<developer>
+			<id>jrafael</id>
+			<name>João Nicola</name>
+			<email>jrafael@senado.leg.br</email>
+		</developer>
+	</developers>
+
+	<distributionManagement>
+		<snapshotRepository>
+			<id>ossrh</id>
+			<url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
+		</snapshotRepository>
+		<repository>
+			<id>ossrh</id>
+			<url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+		</repository>
+	</distributionManagement>
+	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
