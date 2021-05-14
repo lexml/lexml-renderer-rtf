@@ -3,7 +3,7 @@
 
 	<groupId>br.gov.lexml</groupId>
 	<artifactId>lexml-renderer-rtf</artifactId>
-	<version>0.3.14</version>
+	<version>0.3.15-SNAPSHOT</version>
 	<name>LexML RTF Renderer</name>
 	<description>LexML Brazil document RTF renderer library.</description>
 	<url>https://github.com/lexml/lexml-renderer-rtf</url>
@@ -42,7 +42,7 @@
 		<url>https://github.com/lexml/lexml-renderer-rtf</url>
 		<developerConnection>scm:git:https://github.com/lexml/lexml-renderer-rtf.git</developerConnection>
 		<connection>scm:git:https://github.com/lexml/lexml-renderer-rtf.git</connection>
-        <tag>0.3.14</tag>
+        <tag>HEAD</tag>
     </scm>
 	
 	<build>
